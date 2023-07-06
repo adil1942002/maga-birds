@@ -1,0 +1,24 @@
+
+.maincolor{
+    background-image: url('https://wallpapershome.com/images/wallpapers/abstract-1280x720-dark-geometry-4k-24193.jpg');
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inp{
+    outline: none;
+    border: none;
+    background-color: lightcyan;
+    padding: 15px 0px;
+    border-radius: 10px;
+    margin-left: 30px;
+    width: 30%;
+}
+.inp::placeholder{
+    color:slategrey;
+    font-weight: 900;
+    text-align: center;
+
+}
+

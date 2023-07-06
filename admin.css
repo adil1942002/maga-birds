@@ -1,0 +1,54 @@
+
+.main{
+    background-image: url("https://wallpapers.com/images/featured/black-abstract-background-m8kr2hfvrwlt8j5g.jpg");
+    width: 100%;
+    width: 100%;
+}
+.procolor {
+    background-color: rgba(0, 0, 0, 0.1);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 70vh;
+    margin: auto;
+    border-radius: 10px;
+    color: white;
+}
+.button:hover{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: wheat;
+}
+.button{
+    background-color: white;
+    color: black;
+}
+
+.inpad {
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    text-align: center;
+    margin-left: 10px;
+    padding: 5px;
+    width: 250px;
+}
+
+.inpad::placeholder {
+    text-align: center;
+}
+
+#nav {
+color: wheat;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Geneva, Tahoma, sans-serif;
+    padding-left: 60px;
+}
+
+.heading{
+    color: white;
+position: absolute;
+top: 30%;
+font-size: 100px;
+font-family:   Arial, Helvetica, sans-serif;
+padding-left: 40PX;
+
+}
